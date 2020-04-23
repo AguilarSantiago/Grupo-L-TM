@@ -1,0 +1,20 @@
+INTEGRANTES: 
+	- Aguilar Santiago
+	- Boschi Fernando
+	- Potichkin Mariana
+	- Spalenza Macarena
+
+TEMA: Empresa de Marketing  de vino
+
+Nuestra idea consiste en generar otra herramienta para el turismo vitivinícola, acercando tanto al turista internacional, nacional y local a las rutas del vino y posibilitar otras vías de información y compra de productos.
+Mendoza se posiciona como la provincia que presenta mayor proporción de turistas del vino con relación a los turistas que ingresan a cada provincia y dada la necesidad actual para posicionar un producto, esto se convierte en una herramienta para proporcionar al usuario la información necesaria de la bodega y sus vinos.
+ 
+El proyecto propuesto brinda al usuario una guía turística virtual a bodegas, ofreciendo su ubicación, la experiencia de recorrer el espacio que la conforma, conocer su historia, el proceso de producción, como así tambíen acceder a un buscador de vinos divididos por categorías según: Bodega, Marca, Variedad, Enólogo, Zona, etc.
+
+Esta aplicación permitiría que diferentes bodegas y pequeños productores puedan crear una cuenta y acceder a una base de datos para tercerizar sus vinos. A su vez, cada producto respondería a una serie de etiquetas que permitirían combinar y filtrar las búsquedas a fin de hacerlas más personalizadas.
+
+LENGUAJE: Python
+
+ENTORNO: Sublime Text
+
+BASE DE DATOS: MYSQL
